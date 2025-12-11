@@ -1,0 +1,5 @@
+{
+  "name": "Multilingual Prompt Injection Tester",
+  "description": "A tool to generate and test prompt injection attacks in multiple languages. It demonstrates how attacks that are defended against in English might succeed when translated into other languages like Chinese or German, using the Gemini API for translation and simulation.",
+  "requestFramePermissions": []
+}
